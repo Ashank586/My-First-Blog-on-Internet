@@ -1,0 +1,24 @@
+body{
+    text-align:center;
+    background-color:aqua;
+}
+.My_Favouraite{
+    width:325px;
+    height:325px;
+    margin:10px;
+}
+#s1{
+    display:flex;
+    justify-content: center;
+}
+#s2{
+    display:flex;
+    justify-content: center;
+}
+.Description_of_Dishes{
+    color:darkorange;
+}
+h1{
+    color:tomato;
+    font-family:cursive;
+}
